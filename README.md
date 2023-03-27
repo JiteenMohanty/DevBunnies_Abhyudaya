@@ -47,3 +47,10 @@ _We don't say our website guarantees the Success , but it definitely increases t
 - [ ] <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><!--Npm-->
 - [ ] <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!--CSS3-->
 - [ ] <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png" height="20"> <!--Mongoose-->
+
+Team Members : 
+- Subrat Kumar Sahu (Leader)
+- Santanu Kumar Mishra
+- K Nameesha Pradhan
+- Sunil Kumar Pradhan
+- Jiteen Mohanty
